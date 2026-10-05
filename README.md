@@ -1,3 +1,4 @@
 # fluffy-sniffle
-Test for repositary
+Test for repository
 hello there
+hello there 2
